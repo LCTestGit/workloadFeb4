@@ -1,4 +1,0 @@
-"AadClientId": "46c03e90-7de7-4927-baa9-5dffd7cfaa39",
-  "AadSecret": "Bax8Q~_Gw1_mwUUXiRunRW73dGGPLCTsjX_6ccQr",
-  "AadTenantDomain": "rashshadabhotmail.onmicrosoft.com",
-  "AadTenantId": "7b0aaa38-fb3b-4943-afc5-7f97f09fd0ae",
